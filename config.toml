@@ -1,11 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "https://alirezamdp.github.io/alirezamdp"
 languageCode = "en-us"
-title = "My New Hugo Site"
-baseURL = "https://alirezamdp.github.io/"
+title = "alirezamdp"
 defaultContentLanguage = "en"
 languageCode = "en"
-
-title = "alirezamdp"
 
 theme = "gokarna"
 
